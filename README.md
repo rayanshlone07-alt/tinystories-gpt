@@ -83,5 +83,3 @@ Trained weights (~100-120MB) are hosted separately due to GitHub file size limit
 
 [Choose one — MIT is common for learning/research projects like this]
 - **Hardware:** Single NVIDIA T4 GPU (Kaggle free tier)
-
-## Project Structure
